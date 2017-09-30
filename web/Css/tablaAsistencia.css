@@ -1,0 +1,19 @@
+table{
+    background-color:#09925A;
+    width:200px;
+    height:100px;
+    border:10px solid #09925A;
+    
+}
+
+.enviar{
+     border:10px solid #077246;
+}
+
+.enviar:hover{
+    background-color:#62B5C2; 
+}
+
+#informacion{
+    right:40px;
+}
